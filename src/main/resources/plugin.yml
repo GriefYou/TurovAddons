@@ -1,0 +1,11 @@
+name: TurovGanddons
+main: me.akyloff.turov.Main
+version: 1.3
+author: darkakyloff
+commands:
+  spawn:
+    usage: /spawn
+  setspawn:
+    usage: /setspawn
+  turov:
+    usage: /turov
